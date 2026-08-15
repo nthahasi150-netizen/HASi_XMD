@@ -3,7 +3,7 @@
 # 🤖 HASI-XMD WHATSAPP BOT
 
 <p align="center">
-  <img src="https://files.catbox.moe/6a48t4.png" width="250" alt="HASI-XMD Logo">
+  <img src="https://i.ibb.co/3k8xX5Q/bot-logo.png" width="250" alt="HASI-XMD Logo">
 </p>
 
 **Powerful, Fast, and Multi-Device WhatsApp User Bot Developed in Node.js**
