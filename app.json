@@ -1,0 +1,18 @@
+{
+  "name": "♥️ARSLAN MD PAIR♥️",
+  "description": "SESSION ID GENERATOR FOR WHATSAPP BOTS",
+  "logo": "https://files.catbox.moe/prkkzj.png",
+  "repository": "https://github.com/ArslanMDofficial/HASi_XMD-Mini-V2",
+  "keywords": ["@HASi_XMD"],
+  "success_url": "/", 
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }
+  ],
+  "env": {      
+    "MESSAGE": {
+      "description": "Msg Attached With Session ID",
+      "value": "🔰 BY || HASi_XMD OFFICIAL 🔰",
+      "required": false 
+    }
+  }
+}
